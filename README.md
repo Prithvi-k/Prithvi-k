@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prithvi!</h1>
-<h3 align="center">A student developer from 🇮🇳</h3>
+<h1>Hi 👋, I'm Prithvi!</h1>
+<h3>A student developer from 🇮🇳</h3>
 
-- All of my projects are available at [https://github.com/Prithvi-k](https://github.com/Prithvi-k)
-- Ask me about **c, vanilla js, python, bash**
-- Interested in **Computer Science, Economics, Startups and more**
+- All of my projects are available at [here](https://github.com/Prithvi-k) :)
+- Ask me about **c, js, python, bash**
+- Interested in **Computer Science, Economics, Finance Startups and more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
