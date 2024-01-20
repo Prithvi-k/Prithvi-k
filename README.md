@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Prithvi!</h1>
-<h3>A student developer from 🇮🇳</h3>
 
-- All of my projects are available at [here](https://github.com/Prithvi-k) :)
+- All of my projects are available [here](https://github.com/Prithvi-k) :)
 - Ask me about **c, js, python, bash**
 - Interested in **Computer Science, Economics, Finance Startups and more**
 
