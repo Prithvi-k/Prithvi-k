@@ -2,7 +2,7 @@
 
 - All of my projects are available [here](https://github.com/Prithvi-k) :)
 - Ask me about **c, js, python, bash**
-- Interested in **Computer Science, Economics, Finance Startups and more**
+- Interested in Computer Science, Economics, Finance and Startups
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
